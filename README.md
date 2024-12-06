@@ -1,0 +1,1 @@
+This repository contains a Lua program demonstrating a simple error handling scenario and shows how to improve it. The original code throws a generic error when the input is nil, while the improved version provides a more informative error message and potentially handles the error more gracefully.
